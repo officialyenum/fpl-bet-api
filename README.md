@@ -93,7 +93,7 @@ This is the basic flow of the application.
 
 ### Support
 
-FPL BET API is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://github.com/officialyenum/fpl-bet.git).
+FPL BET API is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to support please : <p><a href="https://www.buymeacoffee.com/yenum"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yenum" /></a></p>.
 
 
 ### Stay in touch
