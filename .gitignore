@@ -44,6 +44,7 @@ jspm_packages/
 # Prisma Directory
 prisma/migrations
 prisma/schema.prisma
+prisma/seed.ts
 
 # TypeScript v1 declaration files
 typings/
