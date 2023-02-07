@@ -40,9 +40,10 @@ export class AuthService {
       // save the new user
       const user = await this.prisma.user.create({
         data: {
+          userName: dto.userName,
           email: dto.email,
           password: hash,
-          roleId: 1,
+          roleId: 2, //Player Role
         },
       });
       // return Registered user Token
